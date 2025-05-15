@@ -10,26 +10,27 @@ Currently learning German 🇩🇪 (B1 in progress) and exploring ways to merge 
 
 ---
 
-<h2>🚧 Portfolio Projects (Coming Soon)</h2>
+<h2>🚀 Portfolio Projects</h2>
 
-Here are some projects I'm preparing for public release:
+- 🔧 <b><a href="https://github.com/sravyasudheera/Smart-Mushroom-Farm-Dashboard">Smart Mushroom Farm Monitoring Dashboard</a></b>  
+  Web UI for real-time monitoring and control of a mushroom farm using Angular and MQTT integration.  
+  *Tech: Angular, ESP32, Docker, InfluxDB, Grafana*
 
-- **Smart Mushroom Farm Monitoring Dashboard**  
-  *Web interface for real-time temperature, humidity, and CO₂ control using Angular and ESP32 integration.*
+- 🍕 <b><a href="https://github.com/sravyasudheera/Pizza-Ordering-App">Pizza Ordering Web Application</a></b>  
+  Full-stack pizza ordering app with dynamic topping selection, cart preview, and responsive design.  
+  *Tech: Angular, Node.js, Express.js, MongoDB*
 
-- **Pizza Ordering App**  
-  *Full-stack application with dynamic topping selection and real-time cart updates.*  
-  `Tech: Angular | Node.js | Express | MongoDB`
+- 🌐 <b><a href="https://github.com/sravyasudheera/Portfolio-Website">Personal Portfolio Website</a></b>  
+  A minimalist portfolio site to showcase my work, resume, and contact information.  
+  *Tech: React, HTML, CSS, GitHub Pages*
 
-- **Personal Portfolio Website**  
-  *Minimalist site to showcase my skills and experience.*  
-  `Tech: React | HTML | CSS | GitHub Pages`
-
-- **Attendance Management Platform**  
-  *Automated system for tracking attendance and generating visual reports.*  
-  `Tech: JavaScript | MySQL | Power BI`
+- 📊 <b><a href="https://github.com/sravyasudheera/Attendance-Management-System">Attendance Management System</a></b>  
+  Digital attendance and reporting dashboard for academic environments with SQL backend and Power BI visualizations.  
+  *Tech: JavaScript, MySQL, Power BI*
 
 ---
+
+
 
 <h2>🧠 Core Skills</h2>
 
