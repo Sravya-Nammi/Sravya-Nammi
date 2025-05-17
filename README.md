@@ -12,7 +12,7 @@ Currently learning German 🇩🇪 (B1 in progress) and exploring ways to merge 
 
 <h2>🚀 Portfolio Projects</h2>
 
-- 🔧 <b><a href="https://github.com/sravyasudheera/Smart-Mushroom-Farm-Dashboard">Smart Mushroom Farm Monitoring Dashboard</a></b>  
+- 🔧 <b><a href="https://github.com/Sravya-Nammi/Smart-Mushroom-Farm-Monitoring-Dashboard/blob/main/README.md">Smart Mushroom Farm Monitoring Dashboard</a></b>  
   Web UI for real-time monitoring and control of a mushroom farm using Angular and MQTT integration.  
   *Tech: Angular, ESP32, Docker, InfluxDB, Grafana*
 
