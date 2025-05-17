@@ -14,7 +14,7 @@ Currently learning German 🇩🇪 (B1 in progress) and exploring ways to merge 
 
 - 🔧 <b><a href="https://github.com/Sravya-Nammi/Smart-Mushroom-Farm-Monitoring-Dashboard/blob/main/README.md">Smart Mushroom Farm Monitoring Dashboard</a></b>  
   Web UI for real-time monitoring and control of a mushroom farm using Angular and MQTT integration.  
-  *Tech: Angular, ESP32, Docker, InfluxDB, Grafana*
+  *Tech: Angular, ESP32, Docker, InfluxDB, Grafana* 
 
 - 🍕 <b><a href="https://github.com/sravyasudheera/Pizza-Ordering-App">Pizza Ordering Web Application</a></b>  
   Full-stack pizza ordering app with dynamic topping selection, cart preview, and responsive design.  
