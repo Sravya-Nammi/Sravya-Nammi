@@ -24,7 +24,7 @@ Currently learning German 🇩🇪 (B1 in progress) and exploring ways to merge 
   A minimalist portfolio site to showcase my work, resume, and contact information.  
   *Tech: React, HTML, CSS, GitHub Pages*
 
-- 📊 <b><a href="https://github.com/sravyasudheera/Attendance-Management-System">Attendance Management System</a></b>  
+- 📊 <b><a href="https://github.com/Sravya-Nammi/Attendancemonitoring/blob/main/README.md">Attendance Management System</a></b>  
   Digital attendance and reporting dashboard for academic environments with SQL backend and Power BI visualizations.  
   *Tech: JavaScript, MySQL, Power BI*
 
