@@ -20,10 +20,6 @@ Currently learning German 🇩🇪 (B1 in progress) and exploring ways to merge 
   Full-stack pizza ordering app with dynamic topping selection, cart preview, and responsive design.  
   *Tech: Angular, Node.js, Express.js, MongoDB*
 
-- 🌐 <b><a href="https://github.com/sravyasudheera/Portfolio-Website">Personal Portfolio Website</a></b>  
-  A minimalist portfolio site to showcase my work, resume, and contact information.  
-  *Tech: React, HTML, CSS, GitHub Pages*
-
 - 📊 <b><a href="https://github.com/Sravya-Nammi/Attendancemonitoring/blob/main/README.md">Attendance Management System</a></b>  
   Digital attendance and reporting dashboard for academic environments with SQL backend and Power BI visualizations.  
   *Tech: JavaScript, MySQL, Power BI*
