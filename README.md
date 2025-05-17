@@ -16,7 +16,7 @@ Currently learning German 🇩🇪 (B1 in progress) and exploring ways to merge 
   Web UI for real-time monitoring and control of a mushroom farm using Angular and MQTT integration.  
   *Tech: Angular, ESP32, Docker, InfluxDB, Grafana* 
 
-- 🍕 <b><a href="https://github.com/sravyasudheera/Pizza-Ordering-App">Pizza Ordering Web Application</a></b>  
+- 🍕 <b><a href="https://github.com/Sravya-Nammi/Pizzaria/tree/master">Pizza Ordering Web Application</a></b>  
   Full-stack pizza ordering app with dynamic topping selection, cart preview, and responsive design.  
   *Tech: Angular, Node.js, Express.js, MongoDB*
 
